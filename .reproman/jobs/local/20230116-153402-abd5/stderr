@@ -1,0 +1,4 @@
+Warning: Permanently added 'c209-002' (ECDSA) to the list of known hosts.
+WARNING (01/16/23 15:34:19): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.5138829.hostlist.TNEgEOcs to get hosts
+starting job on c209-002
